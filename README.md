@@ -39,8 +39,8 @@ make
 ./bin/visar -i ../data/eng_stat_obst.avi -d
 ```
 
-Contributers:
-Michael Sapienza
-Kenneth Camilleri
-Kenneth Scerri
-Cristian Roman
+### Contributers:
+* Michael Sapienza
+* Kenneth Camilleri
+* Kenneth Scerri
+* Cristian Roman
